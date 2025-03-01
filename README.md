@@ -12,5 +12,7 @@ This project provides a **Bash script** to efficiently manage **Linux users and 
 ## 🔧 Installation & Usage  
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/<your-github-username>/bash-user-group-manager.git
-cd bash-user-group-manager
+git clone https://github.com/<your-github-username>/bash-scripts-project.git
+cd bash-scripts-project
+
+
